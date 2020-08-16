@@ -1,6 +1,6 @@
 from socket import *
 
-servidorNombre = "127.0.0.1" 
+servidorNombre = "100.26.222.34" 
 servidorPuerto = 12000
 clienteSocket = socket(AF_INET, SOCK_STREAM)
 
