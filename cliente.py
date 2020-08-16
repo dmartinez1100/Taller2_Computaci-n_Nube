@@ -1,3 +1,7 @@
+#David Felipe Martinez
+#Miguel Angel Castillo
+#Nicolas Duque Baez
+
 from socket import *
 
 servidorNombre = "100.26.222.34" 
@@ -26,4 +30,4 @@ print(response)
 clienteSocket.close()
 
 
-
+#https://github.com/nicolasduque-10/taller2computacionnubeservidor repositorio servidor
